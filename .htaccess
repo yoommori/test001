@@ -1,0 +1,4 @@
+<Files *.js.gz>
+  AddType "text/javascript" .js
+  AddEncoding gzip .js
+</Files>
